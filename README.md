@@ -6,13 +6,15 @@ Main Features
 
 -Validation using jakarta.validation and Lombok
 
--Native SQL queries using @SubSelect, with data filtering using predicates
+-Native SQL queries using @SubSelect, with data filtering using predicates and also elastic search for query
 
 -Implementation of Spring IoC and Java Stream API
 
 -Docker containerization
 
 -FeignClient-> used for communicate with other API from other project by access the link url of API
+
+-Runtime Exception for checking error
 
 Technologies Used
 
